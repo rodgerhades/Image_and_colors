@@ -1,0 +1,19 @@
+/* CSS document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background-image: url("IMG_8174.jpg");
+	
+}
+
+h1{
+	color:red;
+}
+
+p{
+	color:gray;
+}
